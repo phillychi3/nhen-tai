@@ -11,7 +11,7 @@ window.title('網頁快速瀏覽器')
 window.geometry('200x100')
 window.configure(background='white')
 
-header_label = tk.Label(window, text='數字快速瀏覽器')
+header_label = tk.Label(window, text='神的數字')
 header_label.pack()
 
 
