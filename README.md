@@ -1,2 +1,2 @@
-快速前往nhen!tai
+#快速前往nhen!tai
 研究用途
